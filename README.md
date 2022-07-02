@@ -8,3 +8,10 @@ It's completely FOSS!
 ## Your data stays yours!
 This app does just what it says, without the nefarious ads or tracking. \
 The app doesn't require any permissions.  
+
+## Steps to Install the App
+Navigate to Dice_App/app/release/app-release.apk \
+Run the .apk on your Android Device, and allow installation from unknown sources when prompted. \
+You may get a warning from Play Protect stating the developer is unknown, \
+it's completely safe to ignore the message and tap Install Anyway. \
+The app would be installed on your Android device.
