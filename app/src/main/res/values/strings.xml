@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dice</string>
+    <string name="happy_birthday_text">Dice Roller</string>
+    <string name="signature_text">Developed by Vasanth S Bhaskara</string>
+    <string name="button">Roll</string>
+
+</resources>
